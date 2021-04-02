@@ -1,4 +1,3 @@
-# Wings-of-hope
 <!DOCTYPE html>
 <html>
     <title>Wings of hope!</title>
